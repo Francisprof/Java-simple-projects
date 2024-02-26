@@ -32,7 +32,7 @@ Contributions are welcome! Whether you want to add new projects, improve existin
 
 ## License:
 
-This project is licensed under the [MIT License](LICENSE).
+Opensource
 
 ## Acknowledgments:
 
